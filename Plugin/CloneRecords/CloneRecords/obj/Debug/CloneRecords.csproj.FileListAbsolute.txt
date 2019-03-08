@@ -1,0 +1,9 @@
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\bin\Debug\CloneRecords.dll
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\bin\Debug\CloneRecords.pdb
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\obj\Debug\CloneRecords.csprojAssemblyReference.cache
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\obj\Debug\CloneRecords.csproj.CoreCompileInputs.cache
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\obj\Debug\CloneRecords.csproj.CopyComplete
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\obj\Debug\CloneRecords.dll
+C:\Users\juacosta\source\repos\CloneRecords\CloneRecords\obj\Debug\CloneRecords.pdb
